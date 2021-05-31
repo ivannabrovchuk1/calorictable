@@ -4,6 +4,6 @@ abstract class SpoonacularAPI  {
 
     companion object{
         const val BASE_URL = "https://api.spoonacular.com"
-        const val API_KEY = "d63040b6462a4979b977dfa740a63f34"
+        const val API_KEY = "f62a51f49c47453bac41c8da94623b15"
     }
 }
